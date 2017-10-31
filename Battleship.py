@@ -1,3 +1,4 @@
+#Using python 2.3 
 from random import randint
 flag = 0
 board = []
